@@ -31,7 +31,7 @@ The container files must be stored on a filesystem accessible to the switch. Ide
 
 The Catalyst 9300 and USB 3.0 120GB module was used for our purposes, but other switch models have alternatives.
 - USB 3.0 SSD module
-![](/assets/images/2022-03-24-14-44-09.png)
+![](/images/2022-03-24-14-44-09.png)
 
 
 [Installing a USB 3.0 SSD](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst9300/hardware/install/b_c9300_hig/b_c9300_hig_chapter_01010.html) instructions
