@@ -347,7 +347,7 @@ You may have occasion to update the `syslog-ng.conf` file. The container does th
     syslog-ng-ctl reload
     ```
 
-## [Optional] Extract/download container logs
+## (Optional) Extract/download container logs
 The sample `syslog-ng.conf` file has a suggested `destination d_localfile` parameter to drop messages into a container-local file `/var/log/syslogng-YYYY/MM-DD/messages`. It is prudent to monitor the growth of the `/var/log/syslogng-*` directories for filespace usage. The container image was built with the `scp` utility, so you can copy files OFF the container to any other fileserver supporting SCP.
 
 ```ios-xe
